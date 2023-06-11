@@ -15,7 +15,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
+Chelsea Wagner
 
+https://github.com/caf62219/hw-challenge-1
 
 ## License
 
