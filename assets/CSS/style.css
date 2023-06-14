@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #ffffff; /* Element Selector */
     text-decoration: none;
 }
 

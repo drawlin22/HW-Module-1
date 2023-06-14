@@ -2,18 +2,22 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Module 1 challenge focued on HTML elements including styling and positioning. The assignment includes normal flow to the HTML semantic elements.
+
+This challenge was an existing website for Horiseon with non semantic code, broken links, and an uncommented CSS file.
 
 
 ## Installation
 
-N/A
+Link to Deployed website:
+https://drawlin22.github.io/HW-Module-1/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+![Alt text](assets/Images/SC%20Deployment.png)
 
 ## Credits
+
 
 Chelsea Wagner
 
